@@ -18,3 +18,5 @@ Python
 Figma · Visual Studio Code · Git · GitHub · GitHub Desktop · PyCharm
 
   - - -
+
+![Rubber duck debugging animation](./duck_.gif)
