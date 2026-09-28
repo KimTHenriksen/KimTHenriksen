@@ -9,20 +9,12 @@ In 2026 I also got interested in backend development and recently started studyi
 - - -
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
+HTML · CSS · JavaScript
 
 ### Backend
-- Python
-
+Python
 
 ### Tools
-- Figma
-- Visual Studio Code
-- Git
-- GitHub
-- GitHub Desktop
-- PyCharm
+Figma · Visual Studio Code · Git · GitHub · GitHub Desktop · PyCharm
 
   - - -
