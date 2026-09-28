@@ -1,4 +1,4 @@
-<svg width="600" height="70">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70">
   <text x="10" y="45" font-size="30">:🦆:
   <animate attributeName="x" from="10" to="550" dur="6s" repeatCount="indefinite" />
   </text>
